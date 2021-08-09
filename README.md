@@ -23,14 +23,6 @@ The interactive demo shows that every number in the range tested (1 to 100) clea
 
 Running this on larger samples (say, up to 5000) and generating full interactive visualisations is possible but quite slow. I've visualised a couple of these below:
 
-## How to use
-
-Clone and run `python src/collatz.py` to generate the output yourself with customisable depth.
-
-Default depth is 100, meaning numbers up to 100 will be visualised as a graph.
-
-When
-
 ## Example visualisations
 
 100 nodes:
@@ -40,3 +32,11 @@ When
 5000 nodes:
 
 ![5000 Node visualisation](https://raw.githubusercontent.com/patrickbrett/collatz/main/5000_nodes.png)
+
+## How to use
+
+Clone and run `python src/collatz.py` to generate the output yourself with customisable depth.
+
+Default depth is 100, meaning numbers up to 100 will be visualised as a graph.
+
+The largest chain found and its full path will also be output when the program is run.
