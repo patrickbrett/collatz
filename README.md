@@ -21,6 +21,8 @@ This has been shown to work for every number up to around 10^20, more than the n
 
 The interactive demo shows that every number in the range tested (1 to 100) clearly follows this rule - following the arrows from any point, every number eventually reaches back to 1.
 
+Halving steps are shown in pink, triple-plus-one steps are shown in blue in the visualisation. The terminal state - the number one - is shown in green.
+
 Running this on larger samples (say, up to 5000) and generating full interactive visualisations is possible but quite slow. I've visualised a couple of these below:
 
 ## Example visualisations
