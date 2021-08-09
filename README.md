@@ -13,6 +13,10 @@ Default depth is 100, meaning numbers up to 100 will be visualised as a graph.
 
 ## Example visualisations
 
+100 nodes:
+
+![https://raw.githubusercontent.com/patrickbrett/collatz/main/100_nodes.png](100 Node visualisation)
+
 5000 nodes:
 
 ![https://raw.githubusercontent.com/patrickbrett/collatz/main/5000_nodes.png](5000 Node visualisation)
