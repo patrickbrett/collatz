@@ -1,6 +1,8 @@
 from pyvis.network import Network
 import networkx as nx
 
+COLLATZ_DEPTH = 100
+
 
 def next_collatz(n):
   return n >> 1 if n % 2 == 0 else 3 * n + 1
@@ -51,8 +53,6 @@ def generate_graph(n):
 
   return G
 
-
-COLLATZ_DEPTH = 100
 
 if __name__ == '__main__':
   graph = generate_graph(COLLATZ_DEPTH)

@@ -35,8 +35,10 @@ Running this on larger samples (say, up to 5000) and generating full interactive
 
 ## How to use
 
-Clone and run `python src/collatz.py` to generate the output yourself with customisable depth.
+Clone and run `python src/collatz.py` to generate the output yourself to `output.html`. The depth can be customised by changing the `COLLATZ_DEPTH` constant at the top of the `collatz.py` file.
 
-Default depth is 100, meaning numbers up to 100 will be visualised as a graph.
+Note that you will need to run `pip install -r requirements.txt` first in order to load the relevant dependencies.
+
+The default depth is 100, meaning numbers up to 100 will be visualised as a graph.
 
 The largest chain found and its full path will also be output when the program is run.
