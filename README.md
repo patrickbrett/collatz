@@ -7,7 +7,7 @@ This Veritasium video: https://www.youtube.com/watch?v=094y1Z2wpJg
 
 ## How to use
 
-Either directly open [output.html](https://raw.githubusercontent.com/patrickbrett/collatz/main/output.html), or clone and run `python src/collatz.py` to generate the output yourself with customisable depth.
+Either directly open [output.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/patrickbrett/collatz/main/output.html), or clone and run `python src/collatz.py` to generate the output yourself with customisable depth.
 
 Default depth is 100, meaning numbers up to 100 will be visualised as a graph.
 
