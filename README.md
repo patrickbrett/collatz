@@ -17,7 +17,7 @@ This program visualises the the following algorithm, applied to each number from
 2. If the number is odd, triple it and add one.
 3. Repeat until the result is 1.
 
-This has been shown to work for every number up to around 10^20, more than the number of grains of sand on Earth. However, nobody can prove that it works for *all* numbers, and so it remains a conjecture.
+This has been shown to work for every number up to around 10^20, more than the number of grains of sand on Earth. However, despite how apparently simple it is, nobody can prove that it works for *all* numbers, and so it remains a conjecture.
 
 The interactive demo shows that every number in the range tested (1 to 100) clearly follows this rule - following the arrows from any point, every number eventually reaches back to 1.
 
