@@ -7,7 +7,7 @@ This Veritasium video: https://www.youtube.com/watch?v=094y1Z2wpJg
 
 ## Live demo
 
-Check out the [live demo here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/patrickbrett/collatz/main/output.html)!
+Check out the [live demo here](https://patrickbrett.github.io/collatz.html)!
 
 ## What is this?
 
